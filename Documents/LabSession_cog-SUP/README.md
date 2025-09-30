@@ -1,4 +1,4 @@
-# Analysis of functional MRI data (#  cog-SUP - Basic and Advanced Methods in Neuroimaging: hands on (f)MRI)
+# Analysis of functional MRI data (cog-SUP - Basic and Advanced Methods in Neuroimaging)
 
 This repository contains the material of the course on MRI:
 We can run it on [google collab](https://colab.research.google.com/github/TheComputationalBrain/LabSession_cog-SUP/blob/main/Documents/LabSession_cog-SUP/TD_MRI_collab.ipynb), which requires to log in with a google account
